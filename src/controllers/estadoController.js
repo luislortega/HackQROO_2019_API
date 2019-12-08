@@ -8,7 +8,7 @@ module.exports = {
     });
   },
   insertarEmbarazosMenores15(datos){
-      quintanaroo.update({
+    quintanaroo.update({
         embarazos_menores_15: datos
       },{
           where: {
