@@ -16,7 +16,7 @@
   "author": "luislortega",
   "license": "SEE LICENSE IN ../LICENCE",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
